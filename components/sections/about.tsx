@@ -1,5 +1,4 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
-import Image from 'next/image'
 
 export function AboutSection() {
   return (
@@ -15,19 +14,19 @@ export function AboutSection() {
 
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                I'm a passionate frontend developer with hands-on experience in building responsive, user-friendly web applications.
+                I&apos;m a passionate frontend developer with hands-on experience in building responsive, user-friendly web applications.
                 Currently working as a Frontend Developer at Innovador Infotech, where I develop interfaces for government portal modules.
               </p>
 
               <p>
-                With a B.Tech in Computer Science (2020-2024, CGPA 7.9), I've developed strong expertise in React.js, Next.js,
-                Tailwind CSS, and modern JavaScript. I'm passionate about performance optimization, component architecture,
+                With a B.Tech in Computer Science (2020-2024, CGPA 7.9), I&apos;ve developed strong expertise in React.js, Next.js,
+                Tailwind CSS, and modern JavaScript. I&apos;m passionate about performance optimization, component architecture,
                 and creating delightful user experiences.
               </p>
 
               <p>
                 I believe in writing clean, maintainable code and staying updated with the latest web technologies.
-                When I'm not coding, you can find me exploring new frameworks or contributing to open-source projects.
+                When I&apos;m not coding, you can find me exploring new frameworks or contributing to open-source projects.
               </p>
             </div>
 

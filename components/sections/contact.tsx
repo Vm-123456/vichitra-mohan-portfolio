@@ -47,7 +47,7 @@ export function ContactSection() {
         <div className="mb-12 space-y-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold">Get In Touch</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
+            I&apos;m always interested in hearing about new projects and opportunities. Feel free to reach out!
           </p>
         </div>
 
@@ -138,7 +138,7 @@ export function ContactSection() {
               <CardHeader>
                 <CardTitle>Send Me a Message</CardTitle>
                 <CardDescription>
-                  Fill out the form below and I'll get back to you as soon as possible.
+                  Fill out the form below and I&apos;ll get back to you as soon as possible.
                 </CardDescription>
               </CardHeader>
               <CardContent>

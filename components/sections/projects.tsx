@@ -150,7 +150,7 @@ export function ProjectsSection() {
                     <div className="flex flex-wrap gap-3 pt-2">
                       <Button size="sm" asChild>
                         <a href="#contact" className="flex items-center gap-1.5">
-                          Let's Talk
+                          Let&apos;s Talk
                           <ArrowRight size={16} />
                         </a>
                       </Button>
