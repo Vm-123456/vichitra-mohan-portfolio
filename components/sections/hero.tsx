@@ -84,7 +84,7 @@ export function HeroSection() {
               <a href="#contact">
                 <Button variant="outline" size="lg">Get In Touch</Button>
               </a>
-              <a href="/resume.pdf" target="_blank">
+              <a href="/pdf/vichitra_mohan_Resume.pdf" target="_blank">
                 <Button variant="ghost">
                   <Download className="mr-2 h-4 w-4" />
                   Resume
