@@ -1,0 +1,48 @@
+VICHITRA MOHAN
+326 Baba Nagar, Kanpur | Phone: 8318474387 | mohanvichitra@gmail.com | linkedin.com/in/vichitra-mohan-933811255/
+Summary
+Passionate Frontend Developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, and
+React.js. Proven track record in building responsive, user-friendly web applications and interactive dashboards
+for government portals. Strong focus on performance optimization, API integration, and component architecture.
+Education
+B.Tech in Computer Science Engineering 2020 – 2024
+Axis Institute of Technology and Management (CGPA- 7.9)
+Experience
+Frontend Developer Jun. 2025 – Present
+Innovador Infotech Pvt. Ltd. Kanpur
+• Developed responsive and scalable user interfaces for government portal modules including MSME Assam, Goa, and
+Uttar Pradesh using React.js, HTML, CSS, and Bootstrap
+• Improved application performance and user experience by optimizing frontend workflows, reducing downtime, and
+enhancing page responsiveness
+• Refactored frontend data handling and API integration processes, contributing to faster application throughput and
+smoother user interactions
+• Built reusable UI components and standardized frontend architecture using Tailwind CSS, improving development
+efficiency and consistency
+Frontend Developer Intern Jan. 2025 – Jun. 2025
+Innovador Infotech Pvt. Ltd. Kanpur
+• Developed frontend components for government portal modules using React.js, HTML, CSS, Bootstrap, and
+Tailwind CSS
+• Collaborated with senior developers to implement responsive UI designs and enhance user interface functionality
+• Utilized JavaScript and jQuery to create dynamic interactions and improve user engagement
+• Participated in code reviews and contributed to improving frontend development standards and best practices
+Frontend Developer Intern Jun. 2024 – Dec. 2024
+Dcode Pathshala Kanpur
+• Developed modern, responsive web interfaces using React.js, Tailwind CSS, HTML, and CSS
+• Created reusable component libraries using React to accelerate UI development and maintain design consistency
+• Enhanced frontend performance through optimized rendering techniques and efficient state management practices
+• Utilized JavaScript and jQuery for dynamic user interactions and DOM manipulation
+Projects
+UP MSME 1Connect Portal | Frontend, Dashboards, API Integration
+• Developed responsive UI and dashboards; integrated APIs and built real-time data visualization.
+Assam RAMP | Interactive Dashboards
+• Built interactive dashboards and filters; ensured responsive and optimized UI.
+• Implemented responsive UI layouts using Tailwind CSS.
+• Enhanced frontend performance and user interaction by optimizing component rendering and minimizing page load
+time.
+Goa RAMP | Frontend Components, Performance
+• Developed frontend components with charts and tables; improved usability and performance.
+Technical Skills
+Frontend Languages: HTML, CSS, JavaScript, jQuery
+Frontend Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS
+Developer Tools: Git, Chrome DevTools, Figma, VS Code
+Additional Skills: Responsive Design, Component Architecture, API Integration
