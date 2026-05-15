@@ -121,7 +121,7 @@ export function ContactSection() {
               </CardHeader>
               <CardContent>
                 <a
-                  href="https://linkedin.com/in/vichitra-mohan-933811255/"
+                  href="https://www.linkedin.com/in/vichitra-mohan-933811255/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"

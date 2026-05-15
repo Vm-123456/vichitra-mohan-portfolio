@@ -24,7 +24,7 @@ export function Header() {
           href="/"
           className="flex items-center space-x-2 font-bold text-xl text-primary"
         >
-          <span>VM</span>
+          {/* <span>VM</span> */}
           <span className="hidden sm:inline">Vichitra Mohan</span>
         </Link>
 

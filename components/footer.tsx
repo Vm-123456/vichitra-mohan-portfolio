@@ -65,7 +65,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-4">Follow</h3>
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com/in/vichitra-mohan-933811255/"
+                href="https://www.linkedin.com/in/vichitra-mohan-933811255/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -74,7 +74,7 @@ export function Footer() {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/Vm-123456"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
